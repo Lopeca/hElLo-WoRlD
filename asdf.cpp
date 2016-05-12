@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("asdf\n");
+	printf("^~^\n");
 	return 0;
 }
 

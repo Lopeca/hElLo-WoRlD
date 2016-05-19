@@ -10,8 +10,10 @@ int _tmain(int argc, _TCHAR* argv[])
 	zzzzzzzzzzzz
 		z
 		zzzz
-		zz
+		zz;
+	printf("zzzzz");
 		z
 		zzzzzzzzzzz
+
 	return 0;
 }

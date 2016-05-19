@@ -7,6 +7,11 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 	printf("lasdflgfgdfcxv\n");
-	zzzzzzzzzzz
+	zzzzzzzzzzzz
+		z
+		zzzz
+		zz
+		z
+		zzzzzzzzzzz
 	return 0;
 }

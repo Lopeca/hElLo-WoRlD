@@ -13,7 +13,11 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("xxxxxxxxxx");
 
 
+<<<<<<< Updated upstream
 		xxxxxxxxxxxxxxxsda
+=======
+		xxxxxxxxxxxxxxxxx
+>>>>>>> Stashed changes
 	return 0;
 }
 

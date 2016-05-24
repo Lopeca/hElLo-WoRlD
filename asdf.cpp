@@ -13,7 +13,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("xxxxxxxxxx");
 
 
-		xxxxxxxxxxxxxxx
+		xxxxxxxxxxxxxxxsda
 	return 0;
 }
 
